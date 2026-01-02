@@ -7,10 +7,7 @@ I'm a J2 student at Hwa Chong Institution.
 - Feel free to contact me at [techieernie@gmail.com](mailto:techieernie@gmail.com)
 - Check out my website: [techie-ernie.github.io](techie-ernie.github.io) and my [LinkedIn](https://www.linkedin.com/in/ernest-chan-ern-yi/)
 
-![](https://github-readme-stats.vercel.app/api?username=Techie-Ernie&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Techie-Ernie)](https://git.io/streak-stats)
 
 <!--
 **Techie-Ernie/techie-ernie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
